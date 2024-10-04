@@ -54,7 +54,7 @@
     "can-ndjson-stream": "^1.0.2",
     "cross-fetch": "^4.0.0",
     "event-iterator": "^2.0.0",
-    "rollup": "4.14.3",
+    "rollup": "4.22.4",
     "rsocket-core": "1.0.0-alpha.3",
     "rsocket-websocket-client": "1.0.0-alpha.3",
     "text-encoding": "^0.7.0",
